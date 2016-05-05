@@ -1,6 +1,9 @@
-// this example is public domain. enjoy!
-// www.ladyada.net/learn/sensors/thermocouple
 
+/* Cold-Junction-Compensated K-Thermocoupleto-
+Digital Converter
+Output to LCD
+
+*/
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 
