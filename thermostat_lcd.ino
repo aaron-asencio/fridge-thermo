@@ -31,6 +31,7 @@ int RELAY2 = 11;
 //minimum amount of time for fridge to run. We don't want to cycle back and forth.
 // mutliplying 60 * 1000 does not work
 const long MIN_COOLING_TIME = 480000;
+//if using progress bar
 //if you double time, have to double modulus - use 4 for 30000
 int modulus = 4;
 
