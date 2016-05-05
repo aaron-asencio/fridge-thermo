@@ -2,7 +2,7 @@
 /* Cold-Junction-Compensated K-Thermocoupleto-
 Digital Converter
 Output to LCD
-
+Drop the mike
 */
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
